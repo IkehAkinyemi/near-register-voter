@@ -83,3 +83,5 @@ scripts
 ├── 2.run.sh
 └── README.md                     <-- instructions
 ```
+## Deployed contract link
+[https://explorer.testnet.near.org/transactions/Cr9sbwMo9rqSdLwSttYdB6oDb1pqGmywJz5onXiabAu5](https://explorer.testnet.near.org/transactions/Cr9sbwMo9rqSdLwSttYdB6oDb1pqGmywJz5onXiabAu5)
